@@ -1,10 +1,9 @@
 # EasyVtuber
 ![](assets/sample_luda.gif)
 
-- Facial landmark와 GAN을 이용한 Character Face Generation 
-- Google Meets, Zoom 등에서 자신만의 웹툰, 만화 캐릭터로 대화해보세요!
-- 악세사리는 어느정도 추가해도 잘 작동해요!
-- 안타깝게도 RTX 2070 미만에서는 실시간으로 잘 작동하지 않을 수도 있어요 ㅠㅠ
+- Facial landmark and GAN used for Character Face Generation 
+- Accessories would work as long as if you don't add too much.
+- Unfortunately, on RTX 2070 or lower, it may not work well in real-time.
 
 <br/><br/>
 
@@ -24,8 +23,8 @@
 <br/><br/>
 
 ## Quick Start
-- ※ 이 프로젝트는 사용 전 OBS 설치가 필수입니다
-- 아래 설치 순서를 __꼭__ 지켜주세요!
+- ※ You have to install OBS befroe strating
+- Please follow the installation instructions below!
 
 1. [OBS studio 설치](<https://obsproject.com/ko>)
    - OBS virtualcam을 사용하기 위해서 먼저 OBS Studio를 설치해야합니다
